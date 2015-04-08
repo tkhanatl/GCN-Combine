@@ -1,0 +1,72 @@
+/*
+ Localizable.strings
+ GCN Combine
+ 
+ Created by DP Samantrai on 28/11/12.se
+ Copyright (c) 2012 DP Samantrai. All rights reserved.
+ */
+
+
+"UserID"                                            = "UserID";
+"Password"                                          = "Password";
+"Sign In"                                           = "Sign In";
+"BtnBackgroundImage"                                = "BtnBackgroundImage.png";
+"LoginBackGround"                                   = "Loginscreen320x480.png";
+"Login"                                             = "Login";
+"UserIDValidationMsg"                               = "Please enter the valid user id";
+"PwdIDValidationMsg"                                = "Please enter the valid password";
+"Home"                                              = "Home";
+"HomeLogo"                                          = "Home.png";
+"SettingsLogo"                                      ="setting.png";
+"Favourites"                                        = "Favorites";
+"FavouritesLogo"                                    = "FavoriteJob.png";
+"About"                                             = "About";
+"AboutLogo"                                         = "about.png";
+"ABOUTSCREEN2320x480"                               = "ABOUTSCREEN2320x480.png";
+"screen320x480"                                     ="Homescreen320x480.png";
+"FeetBtnTitle"                                      = "Feet";
+"DoneBtnTitle"                                      = "Done";
+"InchBtnTitle"                                      = "Inches";
+"CONNECTION_FAILURE_TITLE"                          = "Failed to connect to server";
+"Start"                                             = "Start";
+"Reset"                                             = "Reset";
+"Stop"                                              = "Stop";
+"Menu"                                              = "Menu";
+"Cancel"                                            = "Cancel";
+"Upload"                                            = "Upload";
+"ZIGZAG1"                                           = "ZIG ZAG 1";
+"ZIGZAG2"                                           = "ZIG ZAG 2";
+"ZIGZAG3"                                           = "ZIG ZAG 3";
+"Instruction MSg"                                   = "Record times and tap save";
+"COURTSPRINT1"                                      = "COURT SPRINT 1";
+"COURTSPRINT2"                                      = "COURT SPRINT 2";
+
+"Settings Message"                                  = "Numer of Sets";
+"Passing Message"                                   = "Number of Passes";
+"Serve Message"                                     = "Number of Serves";
+"Edit Message"                                      = "Edit Timer Settings";
+"NO_DATA"                                           = "No Data";
+
+
+
+
+
+
+"UploadLogScores"                              = "{\"Action\":\"A\",\"Identifier\": \"0\",\"CombineID\":%d, \"AthleteID\":\"%@\",\"TestID\" : %d, \"Result\":\"%@\",\"UserIdentifier\":\"99\"}";
+
+
+"AthleteAction"                                       = "{\"Action\":\"A\",\"Identifier\":\"0\",\"TYPE\":\"A\",\"FNAME\":\"%@\",\"LNAME\":\"%@\",\"NICKNAME\":\"%@\",\"EMAIL\":\"%@\",\"PASSWORD\":\"%@\",\"ADDRESS\":\"%@\",\"CITY\":\"%@\",\"STATE\":\"%@\",\"ZIP\":\"%@\",\"CELL_PHONE\":\"%@\",\"HOME_PHONE\":\"%@\",\"FB_ID\":\"%@\",\"TWIT_ID\":\"%@\",\"PERSONAL_INFO\":\"%@\",\"SCHOOL_NAME\":\"%@\",\"SCHOOL_COACH_NAME\":\"%@\",\"CLUB_TEAM_NAME\":\"%@\",\"CLUB_COACH_NAME\":\"%@\",\"BIRTH_DATE\":\"%@\",\"YEAR\":\"%@\",\"HEIGHT\":\"%@\",\"WEIGHT\":\"%@\",\"WINGSPAN\":\"%@\",\"REACH\":\"%@\",\"SHOE_SIZE\":\"%@\",\"SPORT\":\"%@\",\"U_ID\":\"0\",\"ACTIVE\":\"%@\",\"POSITION\":\"%@\"}";
+
+
+"LoginRequestBody"                              = "<?xml version=\"1.0\" encoding=\"utf-8\"?><pRequest><UserName>%@</UserName><Password>%@</Password><DeviceID>%@</DeviceID></pRequest>";
+
+
+"UpdateAthleteImageRequestBody"                     = "<?xml version=\"1.0\" encoding=\"utf-8\"?><pRequest><AthleteId>%@</AthleteId><ImageData>%@</ImageData><DeviceID>%@</DeviceID></pRequest>";
+
+
+//"DownLoadAthleteImageRequest"                       = "<?xml version=\"1.0\" encoding=\"utf-8\"?><pRequest><AthleteId>%@</AthleteId><DeviceID>%@</DeviceID></pRequest>";
+
+
+
+
+
